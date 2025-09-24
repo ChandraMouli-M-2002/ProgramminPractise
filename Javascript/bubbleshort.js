@@ -5,7 +5,7 @@ function bubble(arr){
             if(arr[j]>arr[j+1]){
                 [arr[j],arr[j+1]]=[arr[j+1],arr[j]]
             }
-            // console.log('inner  ',arr)
+            console.log('inner  ',arr)
         }
         
      }
