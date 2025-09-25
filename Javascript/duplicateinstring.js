@@ -1,4 +1,5 @@
-const str = "programming";
+// const str = "programming";
+// const str=[1, 2, 2, 3, 1, 4, 2];
 const duplicate={};
 
 for(let i=0;i<str.length;i++){
